@@ -1,0 +1,7 @@
+art/
+disabled/
+libs/
+*.blp
+*.otf
+*.tga
+*.ttf
