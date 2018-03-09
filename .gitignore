@@ -1,10 +1,12 @@
 art/
 disabled/
+icons/
 libs/
-border.lua
-font.lua
-statusbar.lua
+media.lua
 *.blp
+*.mp3
+*.ogg
 *.otf
+*.toc
 *.tga
 *.ttf
